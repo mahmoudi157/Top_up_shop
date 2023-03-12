@@ -4,7 +4,7 @@ application native with java
 
 <table>
   <tr>
-         <td><img src="Screenshots/Screenshot_20230310-154118.png" width=270 height=490></td>
+     <td><img src="Screenshots/Screenshot_20230310-154118.png" width=270 height=490></td>
     <td><img src="Screenshots/Screenshot_20230310-154127.png" width=270 height=490></td>
     <td><img src="Screenshots/Screenshot_20230310-154136.png" width=270 height=490></td>
     <td><img src="Screenshots/Screenshot_20230310-154147.png" width=270 height=490></td>
@@ -16,19 +16,12 @@ application native with java
     <td><img src="Screenshots/Screenshot_20230310-154241.png" width=270 height=490></td>
     <td><img src="Screenshots/Screenshot_20230310-154059.png" width=270 height=490></td>
     <td><img src="Screenshots/Screenshot_20230310-154105.png" width=270 height=490></td>
-    <td><img src="Screenshots/Screenshot_20230310-154127.png" width=270 height=490></td>
+   
     
     
-    
-  </tr><br>
-  <tr>
-    
-    <td><img src="Screenshots/Screenshot_20230310-154118.png" width=270 height=490></td>
-    <td><img src="Screenshots/Screenshot_20230310-154127.png" width=270 height=490></td>
-    <td><img src="Screenshots/Screenshot_20230310-154136.png" width=270 height=490></td>
-    <td><img src="Screenshots/Screenshot_20230310-154147.png" width=270 height=490></td>
     
   </tr>
+ 
    
  </table>
  

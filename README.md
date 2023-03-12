@@ -23,14 +23,7 @@ application native with java
  
  
  <table>
-  <tr>
-     <td>Screen</td>
-    <td>Screen</td>
-     <td>Screen</td>
-     <td>Screen</td>
-   
-    
-  </tr>
+ 
   <tr>
     
     <td><img src="Screenshots/Screenshot_20230310-154118.png" width=270 height=490></td>

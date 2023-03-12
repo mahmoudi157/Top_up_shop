@@ -20,7 +20,7 @@ application native with java
     
     
     
-  </tr>
+  </tr><br>
   <tr>
     
     <td><img src="Screenshots/Screenshot_20230310-154118.png" width=270 height=490></td>

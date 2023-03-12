@@ -1,0 +1,71 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/bg"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:background="#FFFFFF"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="vertical">
+		<ImageView
+			android:id="@+id/img"
+			android:layout_width="100dp"
+			android:layout_height="100dp"
+			android:src="@drawable/blocked"
+			android:scaleType="fitCenter" />
+		<TextView
+			android:id="@+id/title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="YOU HAVE BEEN BLOCKED"
+			android:textSize="20sp"
+			android:textStyle="bold"
+			android:textColor="#F44336" />
+		<TextView
+			android:id="@+id/subtitle"
+			android:layout_width="300dp"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:text="We are very sorry, our Moderator team detected that't you are violating the rights of the application, so if you have any reason to be able to unblock your account, please let the Owner know if you think you are blocked for no reason."
+			android:textSize="18sp"
+			android:textColor="#000000" />
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:gravity="center_horizontal"
+			android:orientation="horizontal">
+			<Button
+				android:id="@+id/button1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginRight="10dp"
+				android:padding="8dp"
+				android:background="#F44336"
+				android:text="Appeal for unban\?"
+				android:textSize="14sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF" />
+			<Button
+				android:id="@+id/button2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="10dp"
+				android:padding="8dp"
+				android:background="#2196F3"
+				android:text="Exit"
+				android:textSize="14sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>
